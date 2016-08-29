@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1467081481 source:g:\librarymanag\main.c
+	<stdio.h>
+	"studentheader.h"
+	<stdlib.h>
+	<windows.h>
+
+1466774484 g:\librarymanag\studentheader.h
+
+1466781800 source:g:\librarymanag\studentfuncs.c
+	<stdio.h>
+
+1466781800 source:g:\librarymanag\bookfuncs.c
+	<stdio.h>
+
+1467124555 source:g:\librarymanag\issuefuncs.c
+	<stdio.h>
+
+1466781800 source:g:\librarymanag-manju\bookfuncs.c
+	<stdio.h>
+
+1467124555 source:g:\librarymanag-manju\issuefuncs.c
+	<stdio.h>
+
+1466781800 source:g:\librarymanag-manju\studentfuncs.c
+	<stdio.h>
+
+1469620910 source:g:\librarymanag-manju\main.c
+	<stdio.h>
+	"studentheader.h"
+	<stdlib.h>
+	<windows.h>
+
+1466774484 g:\librarymanag-manju\studentheader.h
+
+1469275467 source:g:\librarymanag-manju\welcome.c
+	<windows.h>
+
